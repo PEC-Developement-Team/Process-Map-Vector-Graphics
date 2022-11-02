@@ -2,3 +2,5 @@
 Vector Graphics for Process Map Diagrams/Symbols
 
 ![Poster](Process-Map-Symbols.png?raw=true "Process Map Symbols Poster")
+
+pngConvert.bat is for converting svgs to pngs using inkscape CLI
